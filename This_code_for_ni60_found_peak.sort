@@ -1,0 +1,867 @@
+*formats
+clover[1:13](e1, e2, e3, e4, x1, x2, x3, x4)
+labr[121:128](e1, e2, e3, e4, x1, x2, x3, x4)
+sinch[15:15](e1, x1)
+sect[16:47](e1, x1)
+ring[48:75](e1, x1)
+ 
+ *data
+!##########################################_CLOVER_CALIBRATION_####################################
+
+Gainarray SegA
+1 ( 1.466858   0.5033907  0.00 )
+2 ( 0.6789551  0.3839015  0.00 )
+3 ( 0.9948730  0.4181025  0.00 )
+4 ( 0.8598633  0.4293558  0.00 )
+5 ( 1.828613   0.5425836  0.00 )
+6 ( 0.9995728  0.3646371  0.00 )
+7 ( 2.092712   0.5498253  0.00 )
+8 ( 0.9768066  0.4028122  0.00 )
+9 ( 0.7290279  0.1630882  0.00 )
+10( 2.979065   0.5648702  0.00 )
+11( 1.469604   0.4720566  0.00 )
+12( 0.5001831  0.4662253  0.00 )
+13( 1.488586   0.4152759  0.00 )
+ 
+Gainarray SegB
+1 ( 1.514465   0.4471711  0.00 )
+2 ( 1.119263   0.4155968  0.00 )
+3 ( 1.478455   0.4163694  0.00 )
+4 ( 0.6651001  0.3824481  0.00 )
+5 ( 1.736084   0.6001590  0.00 )
+6 ( 1.013550   0.3638696  0.00 )
+7 ( 1.874390   0.5773249  0.00 )
+8 ( 0.8447876  0.4686299  0.00 )
+9 ( 0.4381683  0.1623643  0.00 )
+10( 1.284546   0.3997042  0.00 )
+11( 1.253296   0.4430124  0.00 )
+12( 1.445129   0.3712971  0.00 )
+13( 2.096863   0.4304437  0.00 )
+ 
+Gainarray SegC
+1 ( 1.693115   0.4917010  0.00 )
+2 (0.6267090  0.4087037  0.00 )
+3 ( 1.666565   0.4119456  0.00 )
+4 ( 1.750305   0.5444134  0.00 )
+5 ( 0.9041138  0.3782696  0.00 )
+6 ( 0.6956177  0.3763053  0.00 )
+7 ( 1.531616   0.5900198  0.00 )
+8 ( 0.4200477  0.3746505  0.00 )
+9 ( 0.5290070  0.1682437  0.00 )
+10( 0.7697144  0.5634635  0.00 )
+11( 1.076904   0.4165905  0.00 )
+12( 0.7183228  0.4082384  0.00 )
+13( 0.9771118  0.3813699  0.00 )
+ 
+Gainarray SegD
+1 ( 1.324097   0.4318614  0.00 )
+2 ( 1.147217   0.4184581  0.00 )
+3 ( 1.732849   0.4103136  0.00 )
+4 ( 0.6323853  0.5678205  0.00 )
+5 ( 1.068359   0.3668760  0.00 )
+6 ( 1.459045   0.3749405  0.00 )
+7 ( 0.8287354  0.3916907  0.00 )
+8 ( 0.5033000  0.3871255  0.00 )
+9 ( 0.7207528  0.2340579  0.00 )
+10( 1.757935   0.6109927  0.00 )
+11( 1.163574   0.4125054  0.00 )
+12( 1.297363   0.4222690  0.00 )
+13( 1.211487   0.3842922  0.00 )
+
+!#####################################_RING_AND SECTOR_CALIBRATION_################################
+
+Gainarray ring
+53 (-1238.62 49.22 0.000)
+54 (-1136.89 48.97 0.000)
+55 (-1184.42 48.65 0.000)
+56 (-1349.19 48.56 0.000)
+57 (-1171.04 47.41 0.000)
+58 (-1147.37 47.56 0.000)
+59 (-1146.20 47.41 0.000)
+60 (-1129.41 47.63 0.000)
+61 (-1095.94 46.77 0.000)
+62 (-1080.24 45.77 0.000)
+63 (-1093.73 45.57 0.000)
+64 (-1054.00 44.65 0.000)
+65 (-1030.86 45.02 0.000)
+66 (-994.02 44.58 0.000)
+67 (-1014.81 44.85 0.000)
+68 (-996.18 44.35 0.000)
+69 (-974.77 42.73 0.000)
+70 (-970.96 42.98 0.000)
+71 (-948.59 43.52 0.000)
+72 (-940.48 43.53 0.000)
+73 (-935.81 43.67 0.000)
+74 (-917.04 42.24 0.000)
+75 (-886.70 41.57 0.000)
+76 (-917.03 42.07 0.000)
+77 (0.00 0.00 0.000)
+ 
+Gainarray sect
+21 (-1158.93 11.86 0.000)
+22 (-1156.15 11.88 0.000)
+23 (-1179.06 12.03 0.000)
+24 (-1145.97 11.89 0.000)
+25 (-1143.83 11.75 0.000)
+26 (-1140.01 11.83 0.000)
+27 (-1131.83 11.64 0.000)
+28 (-1122.52 11.97 0.000)
+29 (-1129.56 11.55 0.000)
+30 (-1120.10 11.76 0.000)
+31 (-1118.55 11.86 0.000)
+32 (-1135.51 11.73 0.000)
+33 (-1127.39 11.88 0.000)
+34 (-1137.31 11.79 0.000)
+35 (-1148.79 11.92 0.000)
+36 (-1151.68 12.24 0.000)
+37 (-1142.35 11.67 0.000)
+38 (-1158.33 11.79 0.000)
+39 (-1167.82 11.76 0.000)
+40 (-1182.28 11.85 0.000)
+41 (-1182.11 12.10 0.000)
+42 (-1188.44 11.91 0.000)
+43 (-1195.42 12.24 0.000)
+44 (-1233.50 12.31 0.000)
+45 (-1198.39 11.86 0.000)
+46 (-1195.90 12.00 0.000)
+47 (-1195.19 12.30 0.000)
+48 (-1188.25 12.23 0.000)
+49 (-1210.47 11.93 0.000)
+50 (-1176.09 11.81 0.000)
+51 (-1171.85 11.65 0.000)
+52 (0.00 0.00 0.000)
+ 
+!######################################_VARIABLE_DECLARATIONS_##################################### 
+
+longlong tg = 0, ts = 0, tr = 0, td = 0, tga = 0, tgb = 0, tgc = 0, tgd = 0, tdr = 0, tds = 0
+longlong tss1 = 0, trr1 = 0, tdgr = 0,  tdgs = 0, tdddd = 0
+float  xa, xbb, xc, xd, xb, ya, ybb, yc, yd, yb, za, zbb, zc, zd, zb, caa, cab, cac, cad
+valuearray tg1[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray energyg1[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray tg2[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray energyg2[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray tg3[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray energyg3[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray tg4[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray energyg4[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray sum[1:8]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray nrr[1:24]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray nss[1:32]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray energyr[1:24]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray energys[1:32]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray tr1[1:24]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray ts1[1:32]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray  sumdop[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  sumdopx[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  sumnodop[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  sumnodopx[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  e11ca[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+valuearray  e11cb[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+valuearray  e11cc[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  e11cd[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  x_1[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  x_2[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  x_3[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  x_4[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  y_1[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  y_2[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  y_3[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  y_4[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  z_1[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  z_2[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  z_3[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray  z_4[1:13]
+0 0 0 0 0 0 0 0 0 0 0 0 0
+valuearray sumdr[1:24]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray sumndr[1:24]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray sumdrab[1:24]
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+valuearray eegdop[1:9]
+0 0 0 0 0 0 0 0 0
+float  pi = 3.14
+
+!################################_DETECTOR_DISTANCES_FROM_TARGET_##################################
+
+float  d_target2ge = 19.6, d_target2s3 = 3.35
+
+!####################################_THETA_ANGLE_OF_CLOVERS_######################################
+
+valuearray ge_theta[1:8]
+1.57080 1.57080 1.57080 1.57080 2.35620 2.35620 2.35620 1.57080
+
+!#####################################_PHI_ANGLE_OF_CLOVERS_#######################################
+
+valuearray ge_phi[1:8]
+1.57080 0.78540 3.92700 5.49779 0.00000 4.71239 0.78540 4.71239
+
+!#####################################_THETA_ANGLE_OF_RINGS_####################################### 
+valuearray angdis[1:24]
+!2.34 2.35 2.37 2.38 2.40 2.42 2.43
+!2.45 2.47 2.49 2.51 2.52 2.54 2.57
+!2.59 2.61 2.63 2.65 2.68 2.70 2.72
+!2.75 2.77 2.80 
+
+!2.54 2.57 2.59 2.61 2.63 2.65 2.68
+!2.70 2.72 2.75 2.77 2.80 2.34 2.35 
+!2.37 2.38 2.40 2.42 2.43 2.45 2.47
+!2.49 2.51 2.52
+
+0.29 0.28 0.27 0.26 0.25 0.25 0.24
+0.23 0.23 0.22 0.21 0.21 0.20 0.19
+0.16 0.15 0.14 0.12 0.11 0.26 0.28
+0.17 0.16 0.16  
+
+!##############################################_BETA_##############################################
+valuearray beta[1:24]
+!0.049 0.049 0.049 0.049 0.049 0.049
+!0.049 0.049 0.049 0.049 0.049 0.049
+!0.049 0.049 0.049 0.049 0.049 0.049
+!0.049 0.049 0.049 0.049 0.049 0.049
+
+!0.052 0.052 0.052 0.051 0.051 0.051
+!0.051 0.051 0.051 0.050 0.050 0.050
+!0.054 0.054 0.054 0.054 0.053 0.053
+!0.053 0.053 0.053 0.052 0.052 0.052
+
+0.04 0.04 0.04 0.04 0.04 0.04
+0.04 0.04 0.04 0.04 0.04 0.04
+0.04 0.04 0.04 0.04 0.04 0.04
+0.04 0.04 0.04 0.04 0.04 0.04
+
+
+!-0.033 -0.033 -0.033 -0.033 -0.033 -0.033
+!-0.033 -0.033 -0.033 -0.033 -0.033 -0.033
+!-0.033 -0.033 -0.033 -0.033 -0.033 -0.033
+!-0.033 -0.033 -0.033 -0.033 -0.033 -0.033
+
+
+!######################################_PHI_ANGLE_OF_SECTORS_######################################
+
+valuearray sec_phi[1:32]
+0.19635 0.392699 0.589049 0.785398 0.981748 1.178097 1.374447 1.570796
+1.767146 1.963495 2.159845 2.356194 2.552544 2.748894 2.945243 3.141593
+3.337942 3.534292 3.730641 3.926991 4.12334 4.31969 4.516039 4.712389
+4.908739 5.105088 5.301438 5.497787 5.694137 5.890486 6.086836 6.283183
+
+!4.61 4.42 4.22 4.03 3.83 3.63 3.44 3.24
+!3.04 2.85 2.65 2.45 2.26 2.06 1.87 1.67
+!1.47 1.28 1.08 0.88 0.69 0.49 0.29 0.10
+!6.19 5.99 5.79 5.60 5.40 5.20 5.01 4.81
+
+
+
+ 
+!####################################_THETA_ANGLE_OF_CRISTALS_#####################################
+
+valuearray crys_a_theta[1:13]
+2.30 2.58 2.48 1.59 1.59 0.84 0.84 2.48 2.58 1.59 0.84 0.84 0.66
+
+
+
+
+valuearray crys_b_theta[1:13]
+2.48 2.58 2.30 1.59 1.59 0.84 0.84 2.48 2.58 1.59 0.66 0.84 0.84
+
+
+
+valuearray crys_c_theta[1:13]
+2.48 2.40 2.30 1.42 1.42 0.6 0.66 2.30 2.40 1.42 0.66 0.66 0.84
+
+
+valuearray crys_d_theta[1:13]
+2.30 2.40 2.48 1.42 1.42 0.66 0.66 2.30 2.40 1.42 0.84 0.66 0.66
+!#####################################_PHI_ANGLE_OF_CRISTALS_######################################
+
+valuearray crys_a_phi[1:13]
+1.17 0.09 5.11 0.72 5.74 0.72 5.74 2.60 3.86 4.49 1.97 3.23 4.31
+
+valuearray crys_b_phi[1:13]
+1.17 6.28 5.11 0.54 5.57 0.54 5.57 2.43 3.68 4.31 1.97 3.05 4.31
+
+
+valuearray crys_c_phi[1:13]
+1.34 0.09 4.94 0.72 5.74 0.72 5.74 2.60 3.86 4.49 1.80 3.23 4.49
+
+
+valuearray crys_d_phi[1:13]
+1.34 6.28 4.94 0.54 5.57 0.54 5.57 2.43 3.68 4.31 1.80 3.05 4.49
+
+
+!#########################################_INELASTIC_GATES_########################################
+
+valuearray inelas_max[1:24]
+16081 16358 16109 16059 16055 16014
+16155 16155 15893 15743 15750 15684
+15761 15454 15406 15239 15166 15118
+15013 14875 14820 14794 14821 14630
+valuearray inelas_min[1:24]
+10282 10160 9906 9941 9563 9133
+7925 8026 8662 8438 7839 8168
+7790 7900 7183 7422 6082 6063
+6184 5599 6090 5059 4851 5634
+
+*spectra
+!#######################################_SPECTRUM_DEFINITIONS_#####################################
+
+!rclovera: gamma spectra for crystal a 
+!rcloverb: gamma spectra for crystal b 
+!rcloverc: gamma spectra for crystal c
+!rcloverd: gamma spectra for crystal  d
+!sectors: particle energy spectra for sectors
+!ring:particle energy spectra for sectors
+!hitpatg: hitpattern for Ge detectors
+!hitpatr: hitpattern for rings 
+!hitpats: hitpattern for sectors
+!timesi: ring and time difference spectrum
+!timeg1: ring and gamma time difference spectrum
+!timeg2: sector and gamma time difference spectrum 
+!ge_sum_no_dopplerr: non Doppler corrected gamma spectra for individual rings and all clovers (after conditions)
+!ge_sum_no_doppler: non Doppler corrected gamma spectra for all rings and all clovers (after conditions)
+!ge_sum_no_dopplerr2: non Doppler corrected gamma spectra for individual rings (after conditions)
+!ge_sum_no_doppler2: non Doppler corrected gamma spectra for all rings (after conditions)
+!ge_sum_dopplerr: Doppler corrected gamma spectra for individual rings and all clovers (after conditions)
+!ge_sum_doppler: Doppler corrected gamma spectra for all rings and all clovers (after conditions)
+!ge_sum_dopplerr2: Doppler corrected gamma spectra for individual rings (after conditions)
+!ge_sum_doppler2: Doppler corrected gamma spectra for all rings (after conditions)
+!ge_sum_doppleraddbb[1:24]: Doppler corrected gamma spectra for each ring (after conditions)
+!ge_sum_doppleraddb:add back Doppler corrected gamma spectra for all rings (after conditions)
+!2D ring-gamma histogram (ring-gamma time difference (x-axis) & sum of all clover energies (y-axis))
+!2D sector-gamma histogram (sector-gamma time difference (x-axis) & sum of all clover energies (y-axis))
+!si_mat: 2d si matrix (sector energy (x axis) & ring energy (y axis))
+
+rclovera[1:13] 16384
+rcloverb[1:13] 16384
+rcloverc[1:13] 16384
+rcloverd[1:13] 16384
+sectors[1:32] 65536
+rings[1:24] 65536
+hitpatg 108 32
+hitpatr 108 32
+hitpats 64 32
+hitpatcr 108 32
+timesi 4096 32
+timeg1 4096 32
+timeg2 4096 32
+crings[1:24] 16384 32
+ge_sum_no_dopplerr[1:24] 16384 32
+ge_sum_no_doppler 16384 32
+ge_sum_no_dopplerr2[1:24] 16384 32
+ge_sum_no_doppler2 16384 32
+ge_sum_dopplerr[1:24] 16384 32
+ge_sum_doppler 16384 32
+ge_sum_dopplerr2[1:24] 16384 32
+ge_sum_doppler2 16384 32
+ge_sum_doppleraddbb[1:24] 16384 32
+ge_sum_doppleraddb 16384 32
+matdgr  2048 2d
+matdgs  2048 2d
+si_mat  4096 2d
+eeg 4096 32
+eegdc 4096 32
+si_matdc 4096 2d
+ 
+*commands
+!##########################################_COMMANDS_#############################################
+
+doloop i from 1  to 32 step +1
+{
+ energys(i) =  0
+ ts1(i) =  0
+}
+ doloop i from 1  to 24 step +1
+{
+ energyr(i) =  0
+ tr1(i) =  0
+ sumndr(i) =  0
+ sumdr(i) =  0
+ sumdrab(i) =  0
+}
+ doloop i from 1  to 13 step +1
+{
+ sum(i) =  0
+ sumnodop(i) =  0
+ sumdop(i) =  0
+ eegdop(i) =  0
+energyg1(i)=0
+ tg1(i) = 0
+ e11ca(i) =  0
+ e11cb(i) =  0
+ e11cc(i) =  0
+ e11cd(i) =  0
+energyg2(i)=0
+ tg2(i) = 0
+ x_1(i) =  0
+ x_2(i) =  0
+ x_3(i) =  0
+ x_4(i) =  0
+energyg3(i)=0
+ tg3(i) = 0
+ y_1(i) =  0
+ y_2(i) =  0
+ y_3(i) =  0
+ y_4(i) =  0
+energyg4(i)=0
+ tg4(i) = 0
+ z_1(i) =  0
+ z_2(i) =  0
+ z_3(i) =  0
+ z_4(i) =  0
+}
+ ns  =  0
+ nr  =  0
+ nga  =  0
+ ngb  =  0
+ ngc  =  0
+ ngd  =  0
+ 
+createlist glist from clover
+createlist slist from sect
+createlist rlist from ring
+ 
+gain glist.e1 segA factor 1.00
+gain glist.e2 segB factor 1.00
+gain glist.e3 segC factor 1.00
+gain glist.e4 segD factor 1.00
+ 
+loopif $g1=glist.e1 gt 0
+{
+  g = group($g1)
+  inc hitpatg(g)
+  energyg1(g)=$g1.e1
+  inc rclovera($g1.e1) indexed g
+  tg=timestampof($g1.e1)
+  tg1(g) = timestampof($g1.e1)
+  sum(g) = sum(g) + $g1.e1
+}
+loopif $g2=glist.e2 gt 0
+{
+  g = group($g2)
+  inc hitpatg(g)
+  energyg2(g)=$g2.e2
+  inc rcloverb($g2.e2) indexed g
+  tg=timestampof($g2.e2)
+  tg2(g) = timestampof($g2.e2)
+  sum(g) = sum(g) + $g2.e2
+}
+loopif $g3=glist.e3 gt 0
+{
+  g = group($g3)
+  inc hitpatg(g)
+  energyg3(g)=$g3.e3
+  inc rcloverc($g3.e3) indexed g
+  tg=timestampof($g3.e3)
+  tg3(g) = timestampof($g3.e3)
+  sum(g) = sum(g) + $g3.e3
+}
+loopif $g4=glist.e4 gt 0
+{
+  g = group($g4)
+  inc hitpatg(g)
+  energyg4(g)=$g4.e4
+  inc rcloverd($g4.e4) indexed g
+  tg=timestampof($g4.e4)
+  tg4(g) = timestampof($g4.e4)
+  sum(g) = sum(g) + $g4.e4
+}
+ 
+!gain slist.e1 sect factor 1.00
+!gain rlist.e1 ring factor 1.00
+ 
+!*************************************_BROAD_ENERGY_GATES_CONDITION_*******************************
+
+loopif $r=rlist.e1 gt 0!passes (50,4200)
+{
+!if ($r.e1) gt 0
+!{
+  g = group($r) - 47
+  if (g) gt 12 g = g-4
+  inc hitpatr(g)
+  energyr(g) = $r.e1
+  inc rings($r.e1) indexed g
+  tr = timestampof($r.e1)
+  tr1(g) = timestampof($r.e1)
+  trr1 = tr1(g)  
+  nr=nr + 1
+!}
+}
+
+!loopif $s=slist.e1 passes (4862,12000)
+loopif $s=slist.e1 gt 0
+{
+  g = group($s) - 15
+  inc hitpats(g)
+  energys(g) = $s.e1
+  inc sectors($s.e1) indexed g
+  ts = timestampof($s.e1)
+  ts1(g) = timestampof($s.e1)
+  tss1 = ts1(g)
+  ns=ns + 1
+}
+td=(ts-tr)+1024
+inc timesi(td)
+td=(tg-tr)+1024
+inc timeg1(td)
+td=(tg-ts)+1024
+inc timeg2(td)
+doloop iii from 1  to 32 step +1
+{
+ es  =  energys(iii)
+ tss  =  ts
+ nsss  =  nss(iii)
+if es gt 10
+ { 
+ ss  =  iii
+ es1  =  energys(ss)
+ }
+}
+if ns eq 1
+ { 
+ nsss  =  ns
+ }
+doloop ii from 1  to 24 step +1
+{
+ er  =  energyr(ii)
+ trr  =  tr
+ nrrr  =  nrr(ii)
+if er gt 10
+ { 
+ rr  =  ii
+ imax  =  inelas_max(ii)
+ imin  =  inelas_min(ii)
+ er1  =  energyr(rr)
+ }
+}
+if nr eq 1
+ { 
+ nrrr  =  nr
+ }
+c_si  =  nr + ns
+td = (tss-trr) +1024 
+
+!************************************_PARTICLE_COINCIDENCE_CONDITION_******************************
+
+if td passes (954,1074)
+ {
+if c_si eq 2
+ {
+inc si_mat(es1/4,er1/4)
+ee = ABS(es1-er1)
+inc eeg(ee)
+
+!****************************************_ENERGY_SHARE_CONDITION_**********************************
+
+!if ee lt  3500
+!{
+!inc si_matdc(es1/4,er1/4)
+
+!***************************************_INELASTIC_GATE_CONDITION_*********************************
+
+!if er1 lt  imax
+! {
+! if er1 gt  imin
+!  {
+ 
+!------------------------------------------_DOPPLER_CORRECTION_------------------------------------
+
+ ee123  =  0
+ ecad  =  0
+ ee312  =  0
+ ecbd  =  0
+ ee321  =  0
+ eccd  =  0
+ ee213  =  0
+ ecdd  =  0
+  inc crings(er1) indexed rr
+doloop i from 1 to 13 step +1
+{
+!if i passes (1,3)
+!{
+!----------------------------_TRANSFORMATION_MATRIX_FOR_S3_DETECTOR_CRISTAL_A_---------------------
+
+xb = d_target2s3*sin(sec_phi(ss))*tan(angdis(rr))
+yb = d_target2s3*cos(sec_phi(ss))*tan(angdis(rr)) 
+zb = d_target2s3
+
+ee123  =  energyg1(i)
+	if ee123 gt 0
+	{
+
+!----------------------------_TRANSFORMATION_MATRIX_FOR_GE_DETECTOR_CRISTAL_A_---------------------
+
+x_1(i)= d_target2ge*sin(crys_a_phi(i))*sin(crys_a_theta(i))
+ xa  =  x_1(i)  
+y_1(i)= d_target2ge*cos(crys_a_phi(i))*sin(crys_a_theta(i)) 
+!y_1(i)= d_target2ge*cos(crys_a_theta(i))
+ ya  =  y_1(i) 
+z_1(i)= d_target2ge*cos(crys_a_theta(i))
+!z_1(i)= d_target2ge*cos(crys_a_phi(i))*sin(crys_a_theta(i)) 
+ za  =  z_1(i)
+	}
+caa=(xa*xb+ya*yb+za*zb)/(sqrt(xa*xa+ya*ya+za*za)*sqrt(xb*xb+yb*yb+zb*zb))
+
+!------------------------------------_ENERGY_DOPPLER_CORRECTED_CRYSTAL_A_-------------------------- 
+
+	e11ca(i)=energyg1(i)*(1-beta(rr)*caa)/sqrt(1-beta(rr)*beta(rr))
+	ecad=e11ca(i)
+ tgg  =  tg1(i)
+ trr  =  tr
+ tss  =  ts1(ss)
+ tdgs  =  (tgg - tss) +1024
+ tddd  =  (tgg - trr) +1024
+
+!******************************_PARTICLE_GAMMA_COINCIDENCE_CONDITION_CRYSTAL_A_********************
+
+if tdgs passes(997,1037)
+ { 
+if tddd passes(994,1040)
+ { 
+sumdr(rr)=sumdr(rr)+ecad
+sumndr(rr)=sumndr(rr)+ee123
+sumnodop(i)=sumnodop(i)+ee123
+sumdop(i)=sumdop(i)+ecad
+ }
+}
+ ee312  =  energyg2(i)
+	if ee312 gt 0
+	{
+x_2(i)= d_target2ge*sin(crys_b_phi(i))*sin(crys_b_theta(i))
+ xbb  =  x_2(i)
+y_2(i)=  d_target2ge*cos(crys_b_phi(i))*sin(crys_b_theta(i))
+!y_2(i)= d_target2ge*cos(crys_b_theta(i)) 
+ ybb  =  y_2(i)
+
+z_2(i)=d_target2ge*cos(crys_b_theta(i)) 
+!z_2(i)= d_target2ge*cos(crys_b_phi(i))*sin(crys_b_theta(i))
+ zbb  =  z_2(i)
+	}
+cab=(xbb*xb+ybb*yb+zbb*zb)/(sqrt(xbb*xbb+ybb*ybb+zbb*zbb)*sqrt(xb*xb+yb*yb+zb*zb))
+	e11cb(i)=energyg2(i)*(1-beta(rr)*cab)/sqrt(1-beta(rr)*beta(rr))
+	ecbd=e11cb(i)
+ tgg  =  tg2(i)
+ trr  =  tr
+ tss  =  ts1(ss)
+ tdgs  =  (tgg - tss) +1024
+ tddd  =  (tgg - trr) +1024
+if tdgs passes(997,1037)
+ { 
+if tddd passes(994,1040)
+ { 
+sumdr(rr)=sumdr(rr)+ecbd
+sumndr(rr)=sumndr(rr)+ee312
+sumnodop(i)=sumnodop(i)+ee312
+sumdop(i)=sumdop(i)+ecbd
+ }
+}
+ ee321  =  energyg3(i)
+	if ee321 gt 0
+	{
+x_3(i)= d_target2ge*sin(crys_c_phi(i))*sin(crys_c_theta(i))
+ xc  =  x_3(i)
+y_3(i)= d_target2ge*cos(crys_c_phi(i))*sin(crys_c_theta(i))
+!y_3(i)= d_target2ge*cos(crys_c_theta(i))
+ yc  =  y_3(i)
+z_3(i)= d_target2ge*cos(crys_c_theta(i))
+!z_3(i)= d_target2ge*cos(crys_c_phi(i))*sin(crys_c_theta(i))
+ zc  =  z_3(i)
+	}
+cac=(xc*xb+yc*yb+zc*zb)/(sqrt(xc*xc+yc*yc+zc*zc)*sqrt(xb*xb+yb*yb+zb*zb))
+	e11cc(i)=energyg3(i)*(1-beta(rr)*cac)/sqrt(1-beta(rr)*beta(rr))
+	eccd=e11cc(i)
+ tgg  =  tg3(i)
+ trr  =  tr
+ tss  =  ts1(ss)
+ tdgs  =  (tgg - tss) +1024
+ tddd  =  (tgg - trr) +1024
+if tdgs passes(997,1037)
+ { 
+if tddd passes(994,1040)
+ { 
+sumdr(rr)=sumdr(rr)+eccd
+sumndr(rr)=sumndr(rr)+ee321
+sumnodop(i)=sumnodop(i)+ee321
+sumdop(i)=sumdop(i)+eccd
+ }
+}
+ ee213  =  energyg4(i)
+	if ee213 gt 0
+	{
+x_4(i)= d_target2ge*sin(crys_d_phi(i))*sin(crys_d_theta(i)) 
+ xd  =  x_4(i)
+y_4(i)= d_target2ge*cos(crys_d_phi(i))*sin(crys_d_theta(i)) 
+!y_4(i)= d_target2ge*cos(crys_d_theta(i))
+ yd  =  y_4(i)
+z_4(i)= d_target2ge*cos(crys_d_theta(i))
+!z_4(i)= d_target2ge*cos(crys_d_phi(i))*sin(crys_d_theta(i))
+ zd  =  z_4(i)
+	}
+cad=(xd*xb+yd*yb+zd*zb)/(sqrt(xd*xd+yd*yd+zd*zd)*sqrt(xb*xb+yb*yb+zb*zb))
+	e11cd(i)=energyg4(i)*(1-beta(rr)*cad)/sqrt(1-beta(rr)*beta(rr))
+	ecdd=e11cd(i)
+ tgg  =  tg4(i)
+ trr  =  tr
+ tss  =  ts1(ss)
+ tdgs  =  (tgg - tss) +1024
+ tddd  =  (tgg - trr) +1024
+if tdgs passes(997,1037)
+ { 
+if tddd passes(994,1040)
+ { 
+sumdr(rr)=sumdr(rr)+ecdd
+sumndr(rr)=sumndr(rr)+ee213
+sumnodop(i)=sumnodop(i)+ee213
+sumdop(i)=sumdop(i)+ecdd
+ }
+}
+ sndop  =  sumnodop(i)
+ sndopr  =  sumndr(rr)
+ sdop  =  sumdop(i)
+ sdopr  =  sumdr(rr)
+if sndop passes (1,16384)
+ { 
+inc   ge_sum_no_dopplerr(sndop) indexed rr
+inc   ge_sum_no_doppler(sndop) 
+ }
+if sndopr passes (1,16384)
+ { 
+inc   ge_sum_no_dopplerr2(sndopr) indexed rr
+inc   ge_sum_no_doppler2(sndopr) 
+ }
+if sdop passes (1,16384)
+ { 
+inc   ge_sum_dopplerr(sdop) indexed rr
+inc   ge_sum_doppler(sdop) 
+inc   eegdc(ee)
+ }
+if sdopr passes (1,16384)
+ { 
+inc   ge_sum_dopplerr2(sdopr) indexed rr
+inc   ge_sum_doppler2(sdopr) 
+ }
+eegdop(i)=e11ca(i) + e11cb(i) + e11cc(i) + e11cd(i)
+ eegdop1  =  eegdop(i)
+ tddd  =  (tg - trr) +1024
+ tddd2  =  (tg - tss) +1024
+sumdrab(rr)=sumdrab(rr)+eegdop1
+ sdopaddb  =  sumdrab(rr)
+if sdopaddb passes (1,16364)
+ { 
+inc   matdgr(tddd,sdopaddb)
+inc   matdgs(tddd2,sdopaddb)
+inc   ge_sum_doppleraddbb(sdopaddb)  indexed rr
+inc   ge_sum_doppleraddb(sdopaddb)
+ }
+ }
+ }
+ }
+!}
+!}
+!}
+
+*runfiles
+!##########################################_RUN_FILES_#############################################
+DISC /media/andile/Transcend/Masters_data/PR285/R91_0
+DISC /media/andile/Transcend/Masters_data/PR285/R92_0
+DISC /media/andile/Transcend/Masters_data/PR285/R92_1
+DISC /media/andile/Transcend/Masters_data/PR285/R93_0
+DISC /media/andile/Transcend/Masters_data/PR285/R93_1
+DISC /media/andile/Transcend/Masters_data/PR285/R93_2
+DISC /media/andile/Transcend/Masters_data/PR285/R94_0
+DISC /media/andile/Transcend/Masters_data/PR285/R94_1
+DISC /media/andile/Transcend/Masters_data/PR285/R94_2
+DISC /media/andile/Transcend/Masters_data/PR285/R95_0
+DISC /media/andile/Transcend/Masters_data/PR285/R95_1
+
+!DISC /media/andile/Transcend/Masters_data/PR285/R96_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R97_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R97_1
+!DISC /media/andile/Transcend/Masters_data/PR285/R98_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R99_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R99_1
+!DISC /media/andile/Transcend/Masters_data/PR285/R100_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R102_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R103_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R104_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R105_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R106_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R107_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R108_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R108_1
+!DISC /media/andile/Transcend/Masters_data/PR285/R109_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R109_1
+!DISC /media/andile/Transcend/Masters_data/PR285/R110_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R110_1
+!DISC /media/andile/Transcend/Masters_data/PR285/R111_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R112_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R113_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R114_0
+
+!DISC /media/andile/Transcend/Masters_data/PR285/R180_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R180_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R180_0
+!DISC /media/andile/Transcend/Masters_data/PR285/R180_0
+
+
+ 
+  
+  
+  
+ 
+*finish
+
